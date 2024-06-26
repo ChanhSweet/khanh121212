@@ -14,5 +14,7 @@ public class QuanLyKhachSan {
         System.out.println("Hello World!");
         
         System.err.println("Holo");
+        
+        System.err.println("Kaito");
     }
 }
